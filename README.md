@@ -3,21 +3,21 @@ Endert_Guerrero_T1_M3_Procesamiento_de_datos
 
 # Errores en el DataFrame
 
-DataFrame "Ventas_Clientes_2021"
+## DataFrame "Ventas_Clientes_2021"
   
 En el indice 2 del DataFrame "Ventas_Clientes_2021" se puede encontrar el primer error, "110,0", este error se debe a que es una cadena de texto cuando deberia ser un numero entero, ademas de tener una coma en vez de un punto para representar la parte decimal del numero. Lo mismo sucede con el indice 11, "100,00", estos errores seran arreglados mas adelante.
 
-DataFrame "Clientes_2021"
+## DataFrame "Clientes_2021"
   
 En el indice 0 del Datframe "Clientes_2021" encontramos el primer error, "JUan" cuando deberia ser "Juan", es un error simple a la hora de escribir el nombre es dicho caso hipotetico, algo similar sucede con los indices 1, "camila" deberia tener mayuscula al iniciar; indice 2, "DanIel" el cual tiene una mayuscula entremedio del nombre aunque esto no representa problemas en este caso ya que "Daniel" no se repite pero en caso de que fuera asi nos generaria un problema; indice 8 tambien presenta un problema similar, "LuiS". Todos estos problemas seran solucionados mas adelante.
 
 # Errores en el DataFrame
 
-DataFrame "Ventas_Clientes_2021"
+## DataFrame "Ventas_Clientes_2021"
 
 En el indice 2 del DataFrame "Ventas_Clientes_2021" se puede encontrar el primer error, "110,0", este error se debe a que es una cadena de texto cuando deberia ser un numero entero, ademas de tener una coma en vez de un punto para representar la parte decimal del numero. Lo mismo sucede con el indice 11, "100,00", estos errores seran arreglados mas adelante.
 
-DataFrame "Clientes_2021"
+## DataFrame "Clientes_2021"
 
 En el indice 0 del Datframe "Clientes_2021" encontramos el primer error, "JUan" cuando deberia ser "Juan", es un error simple a la hora de escribir el nombre es dicho caso hipotetico, algo similar sucede con los indices 1, "camila" deberia tener mayuscula al iniciar; indice 2, "DanIel" el cual tiene una mayuscula entremedio del nombre aunque esto no representa problemas en este caso ya que "Daniel" no se repite pero en caso de que fuera asi nos generaria un problema; indice 8 tambien presenta un problema similar, "LuiS". Todos estos problemas seran solucionados mas adelante.
 
